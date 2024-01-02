@@ -21,7 +21,3 @@ This project is an e-commerce application built using **PostgreSQL**, **Prisma**
 
 To run the project locally, follow these steps:
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/ecommerce-app.git
-   cd ecommerce-app
