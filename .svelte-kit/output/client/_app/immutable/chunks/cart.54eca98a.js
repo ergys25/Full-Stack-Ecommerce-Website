@@ -1,1 +1,0 @@
-import{w as o}from"./index.0247fe50.js";import{g as s}from"./scheduler.20e5b616.js";const t=o([]),l=e=>{let r=s(t);t.update(()=>[...r,{...e,quantity:1}])},u=e=>{let a=[...s(t)];a.splice(e,1),t.update(()=>a)};export{l as a,t as c,u as r};
