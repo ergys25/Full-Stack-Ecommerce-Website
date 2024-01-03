@@ -35,9 +35,10 @@ Tailwind CSS helps in rapidly styling the application with its utility-first app
 Stripe API is integrated into the app to handle secure payment transactions, ensuring a seamless checkout experience for users.
 
 ## Future Improvements
+- Implement responsive design: Enhance the interface to be compatible with different screen sizes, including tablets and mobile devices.
 - Implement user authentication and account management.
 - Enhance search functionality with filtering and sorting options.
 - Optimize the user interface for better user experience.
 
 ## Conclusion
-The full-stack e-commerce web app developed using Svelte, PostgreSQL, Prisma, Tailwind CSS, and Stripe API provides users with a convenient and secure platform for shopping across various categories and making hassle-free payments.
+The full-stack e-commerce web app developed using Svelte, PostgreSQL, Prisma, Tailwind CSS, and Stripe API provides users with a convenient and secure platform for shopping across various categories and making hassle-free payments. Future updates will include responsive design enhancements to ensure accessibility across different devices.
