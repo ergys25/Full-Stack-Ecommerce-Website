@@ -3,6 +3,9 @@
 ## Overview
 This project is a full-stack e-commerce web application developed using Svelte, PostgreSQL, Prisma, Tailwind CSS, and Stripe API. The application allows users to browse and shop for items across different categories, add items to their cart, and proceed with payments using Stripe.
 
+### Live Version
+Check out the live version of the app [here](https://full-stack-ecommerce-website-lemon.vercel.app/).
+
 ## Technologies Used
 - **Frontend Framework:** Svelte
 - **Database:** PostgreSQL
