@@ -51,7 +51,7 @@
 	</div>
 	{#if items.length > 0}
 		<div class="flex flex-col items-end space-y-4">
-			<h2 class="text-xl font-bold">Total: $0 USD</h2>
+			<h2 class="text-xl font-bold">Total: ${totalPrice.toFixed(2)} USD</h2>
 			<button
 				on:click={handleCheckout}
 				class="bg-blue-500 rouned-full px-4 py-2 font-bold hover:bg-blue-600 duration-300"
